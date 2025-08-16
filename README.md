@@ -21,6 +21,14 @@ Upon running, the job extracts data from the Glue catalog table, applies transfo
 The output file is validated by querying it directly in S3 using S3 Select, confirming the successful format conversion and transformation.
 
 The tutorial provides a practical example of how AWS Glue components can be orchestrated to automate and simplify large-scale ETL workflows in a cloud-native environment.
+# Workflow
+<img width="1132" height="107" alt="image" src="https://github.com/user-attachments/assets/6eee3b58-32f3-4215-adbf-c78d6d6c904e" />
+
+<img width="825" height="373" alt="image" src="https://github.com/user-attachments/assets/1bf3f7f0-60bf-488c-90d6-ab4e7cd27f69" />
+
+# ETL Pipeline Visuals
+<img width="542" height="470" alt="image" src="https://github.com/user-attachments/assets/71a2e9bf-f8ff-4ac3-8c27-5e76ec795091" />
 
 
  
+
